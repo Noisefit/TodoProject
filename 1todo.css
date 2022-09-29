@@ -1,0 +1,81 @@
+.A1{
+    border: 2px solid red;
+    border-radius: 20px;
+    width: 170px;
+    height: 220px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+
+}
+.A2{
+    border: 2px solid red;
+    border-radius: 20px;
+    width: 170px;
+    height: 220px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+}.A3{
+    border: 2px solid red;
+    border-radius: 20px;
+    width: 170px;
+    height: 220px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+}
+.ALLCARD{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.completed{
+    color: red;
+    text-decoration: line-through;
+}
+hr{
+    margin-left: 20px;
+}
+.material-icons{
+    color: red;
+    font-size: 30px !important;
+    
+}
+.add1{
+    font-size: 30px;
+    color: aqua;
+   
+}
+.add{
+   position: relative;
+   left: 920px;
+    
+  
+    
+}
+.alldiv{
+    /* position: relative;
+    border: 2px solid green; */
+    margin-top: 150px;
+}
+.task{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.lists{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}.tasklists{
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+.trip{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+}
+    

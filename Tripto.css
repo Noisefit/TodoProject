@@ -1,0 +1,80 @@
+body{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px;
+}
+.block{
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+    color: red;
+    width: 250px;
+    height: 300px;
+    font-weight: bold;
+    box-shadow: 10px 10px 10px rgb(245, 106, 106);
+    
+    
+}
+.div{
+    display: flex;
+    justify-content: center;
+}
+h2{
+   display: flex;
+   margin-top: 100px;
+   font-size: 30px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h2:before,
+h2:after {
+            content:" ";
+            flex:1 1;
+            border-bottom: 2px solid plum;
+            margin:10px;
+
+        
+}
+.pending{
+    color: black;
+
+}
+.completed{
+    text-decoration: line-through;
+}
+.back{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+    
+}
+.back:hover{
+    color: greenyellow;
+}
+.material-icons{
+    color: red;
+    font-size: 3 0px !important;
+    margin-top: 10px;
+    font-size: 30px !important;
+    
+}
+#icons1{
+    color: red;
+   position: relative;
+   left: 90px;
+   top: 50px;
+   font-size: 30px ;
+  
+
+}
+.hr{
+    border: 1px solid white;
+    padding: 0px 100px 0px 100px;
+    
+    
+}
+hr{
+    margin-left: 30px;
+}
+  

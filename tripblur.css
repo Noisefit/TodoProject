@@ -1,0 +1,20 @@
+.king{
+    filter: blur(7px);
+    
+
+    
+}
+.new12{
+    background-color: white;
+    border: 3PX solid red;
+    border-radius: 20px;
+    color: red;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    box-shadow: 10px 10px 10px gray;
+    font-weight: bold;
+    position: absolute;
+    top: 260px;
+    left: 500px;
+}

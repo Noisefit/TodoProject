@@ -1,0 +1,132 @@
+body{
+    font-weight: bold;
+    /* margin-left: 100px; */
+}
+.task{
+    font-weight: bold;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    /* position: relative; */
+    /* left: 30px; */
+    /* bottom: 20px; */
+    
+}
+.lists{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    font-weight: normal;
+    
+}
+.material-icons{
+    color: red;
+    font-size: 30px !important;
+}
+.add{
+    float: right;
+    position: relative;
+    top: -60px;
+    right: 270px;
+    font-size: 40px;
+    font-weight: bold;
+    bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background: url(https://twitter.com/favicon.icon) no-repeat left center;
+}
+a{
+    text-decoration: none;
+}
+/* .center{
+ 
+    position: relative;
+    top:100px;
+    padding: 100px;
+   
+} */
+.ALLCARD{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.A1{
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    box-shadow: 10px 10px 10px gray;
+}
+.trip{
+  
+    /* padding: 20px; */
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+}
+.completed{
+    text-decoration: line-through;
+    color: red;
+    font-size: 20px;
+}
+.pending{
+    font-size: 20px;
+}
+.checkbox{
+    width: 15px;
+    height: 15px;
+}
+.A2{
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    box-shadow: 10px 10px 10px gray;
+}
+.trip{
+  
+    padding: 20px;
+    font-size: 30px;
+    color: red;
+}
+.completed{
+    text-decoration: line-through;
+    color: red;
+    font-size: 20px;
+}
+.pending{
+    font-size: 20px;
+}
+.checkbox{
+    width: 15px;
+    height: 15px;
+}
+.A3{
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    box-shadow: 10px 10px 10px gray;
+}
+.trip{
+  
+    padding: 20px;
+    font-size: 30px;
+    color: red;
+}
+.completed{
+    text-decoration: line-through;
+    color: red;
+    font-size: 20px;
+}
+.pending{
+    font-size: 20px;
+}
+.checkbox{
+    width: 15px;
+    height: 15px;
+}
